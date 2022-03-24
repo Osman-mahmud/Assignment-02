@@ -1,0 +1,52 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: black;
+}
+/*------------- Top partition--------- */
+.upper-section{
+    background-color:blueviolet;
+    width: 65%;
+    height: 520px;
+    margin-top: 50px;
+    margin-left:20%;
+    padding-left: px;
+}
+.Top-banner{
+     margin-top: 80px;
+}
+
+.Top-section{
+    display: flex; 
+    margin-left: 50px;
+    padding-top: 10px;
+    padding-left: 80px;
+
+}
+.Top-Text{
+    color: white;
+    font-size: 40px;
+    padding-top:10px ;
+    width: 300px;
+    height: 150px;
+}
+.banner-buttom{
+    padding-top:px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    background-color: crimson;
+    padding: 10px 20px;
+    border-radius: 5px;
+    
+}
+.fa-arrow-right{
+    padding-left: 10px;
+}
+.banner img {
+    width: 556px;
+    height: 438px;
+    margin-top: 30px;
+    margin-left: 150px;
+
+}
