@@ -3,7 +3,8 @@ body{
     background-color: black;
 }
 main{
-    margin-left: 150px;
+    
+    
 }
 /*------------- Top partition--------- */
 .upper-section{
@@ -11,7 +12,8 @@ main{
     width: 1298px;
     height: 520px;
     margin-top: 50px;
-    margin-left:568px;
+    margin-left:280px;
+    
     padding-left: px;
 }
 .Top-banner{
@@ -65,7 +67,7 @@ a{
     display: flex;
     width: 1218px;
     padding-left: 80px;
-    margin-left:568px ;
+    margin-left:280px ;
     margin-right: 200px;
     
 
@@ -94,7 +96,7 @@ a{
     background-color: white;
     width: 1298px;
     height: 450px;
-    margin-left: 568px;
+    margin-left: 280px;
     padding-top: 200px;
     
 }
