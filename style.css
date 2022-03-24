@@ -2,17 +2,21 @@ body{
     font-family: 'Poppins', sans-serif;
     background-color: black;
 }
+main{
+    margin-left: 150px;
+}
 /*------------- Top partition--------- */
 .upper-section{
-    background-color:blueviolet;
-    width: 1300px;
+    background-color:antiquewhite;
+    width: 1298px;
     height: 520px;
     margin-top: 50px;
-    margin-left:20%;
+    margin-left:568px;
     padding-left: px;
 }
 .Top-banner{
      margin-top: 80px;
+     padding-left: 40px;
 }
 
 .Top-section{
@@ -23,19 +27,22 @@ body{
 
 }
 .Top-Text{
-    color: white;
+    color:black;
     font-size: 40px;
     padding-top:10px ;
     width: 300px;
     height: 150px;
 }
 .banner-buttom{
-    padding-top:px;
+    padding-top:20px;
+}
+a:hover{
+   background-color: red;
 }
 a{
     text-decoration: none;
     color: white;
-    background-color: crimson;
+    background-color:yellowgreen;
     padding: 10px 20px;
     border-radius: 5px;
     
@@ -47,7 +54,8 @@ a{
     width: 556px;
     height: 438px;
     margin-top: 30px;
-    margin-left: 250px;
+    margin-left: 170px;
+    padding-right: 100px;
 
 }
 /* ---------------------Player info------------- */
@@ -79,4 +87,34 @@ a{
 }
 .player-name{
     padding-left: 10px;
+}
+/* ----------bottom sector------ */
+
+.bottom-section{
+    background-color: white;
+    width: 1298px;
+    height: 450px;
+    margin-left: 568px;
+    padding-top: 200px;
+    
+}
+.football-logo{
+    height: 100px;
+    padding-left: 450px;
+}
+.social-icons{
+    text-align: center;
+    margin-left: 100px;
+    padding-top: 15px;
+}
+.Icon{
+    width: 32px;
+    height: 32px;
+    padding-right: 20px;
+}
+footer{
+    text-align: center;
+    font-size: 25px;
+    margin-left: 80px;
+    padding-top: 25px;
 }
