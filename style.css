@@ -5,7 +5,7 @@ body{
 /*------------- Top partition--------- */
 .upper-section{
     background-color:blueviolet;
-    width: 65%;
+    width: 1300px;
     height: 520px;
     margin-top: 50px;
     margin-left:20%;
@@ -47,6 +47,36 @@ a{
     width: 556px;
     height: 438px;
     margin-top: 30px;
-    margin-left: 150px;
+    margin-left: 250px;
 
+}
+/* ---------------------Player info------------- */
+
+.lower-section{
+    background-color: white;
+    display: flex;
+    width: 1218px;
+    padding-left: 80px;
+    margin-left:568px ;
+    margin-right: 200px;
+    
+
+}
+.player-1 img{
+    margin-left: 10px;
+    width: 280px;
+    height: 270px;
+}
+.player-1{
+    background-color: white;
+    border-radius: 5px;
+    margin-top: 80px;
+    margin-right: 105px;
+    padding-top: 10px;
+    width: 650px;
+    height: 460px;
+    box-shadow: 0 10px 20px 0 black;
+}
+.player-name{
+    padding-left: 10px;
 }
